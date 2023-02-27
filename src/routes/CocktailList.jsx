@@ -1,6 +1,5 @@
 import CocktailCard from "./CocktailCard"
 import { useCocktailContext } from '../contexts/CocktailProvider'
-import { Link } from 'react-router-dom';
 
 
 function CocktailList() {
@@ -11,6 +10,9 @@ function CocktailList() {
   function anotherRandomCocktail() {
     setOneRandomCocktail([cocktails[Math.floor(Math.random() * 21)]])
   }
+
+ // All the selection happens before this component is loaded and depending on what is pressed the corresponding conditional is executed.
+
 
 if (selectedCocktails.length && mixItUpPressed) {
   return (

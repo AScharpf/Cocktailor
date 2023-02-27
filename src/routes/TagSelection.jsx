@@ -6,6 +6,8 @@ function TagSelection( ) {
 
 const { allTags, selectedCocktails, setSelectedCocktails, cocktails, mixItUpPressed, setMixItUpPressed, randomButtonPressed, setRandomButtonPressed, selectedTags } = useCocktailContext()
 
+// Cocktail Selection Algorithm
+
 function handleMixClick() {
   let newArr = [...selectedCocktails]
   for (let i = 0; i < selectedTags.length; i++) {
@@ -38,3 +40,33 @@ function handleRandomClick() {
 }
 
 export default TagSelection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

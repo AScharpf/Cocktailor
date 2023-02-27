@@ -1,7 +1,7 @@
 # Cocktailor
 An app which helps you decide on a cocktail by refining your preferences!
 
-Cocktailor is the easy way for you to quickly know which cocktail suits your pallette best, just select from the tags and cocktailor will spit out a selection of drinks which you can add to your favourites.
+Cocktailor is the easy way for you to quickly know which cocktail suits your pallette best, just select from the tags and cocktailor will present you witht a selection of drinks which you can add to your favourites.
 
 The interactive UI tells you about the history of the cocktail and its flavour profile.
 

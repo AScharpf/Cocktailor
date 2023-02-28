@@ -17,6 +17,8 @@ import CocktailProvider from './contexts/CocktailProvider';
 
 
 
+// routes for each component
+
 const router = createBrowserRouter([
   {
     path: "/",

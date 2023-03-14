@@ -7,20 +7,34 @@ The interactive UI tells you about the history of the cocktail and its flavour p
 
 If you can't decide on what flavours suit you then just ask for cocktailor to surpise you and explore the whole breadth of mixology at your fingertips!
 
-TO RUN THE APP:
+- TO RUN THE APP:
 
 Open your terminal and navigate into the server folder then type:
 
 npm i 
 
-AND
+- AND
 
 npx nodemon
 
-THEN
+- THEN
 
 Navigate to the src folder and then type:
 
 npm run dev
 
 Cheers!
+
+TECH-STACK:
+
+-Frontend:
+
+React.js
+Vite
+JavaScript
+
+-Backend:
+
+Express
+MongoDB/Mongoose
+JavaScript

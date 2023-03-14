@@ -30,11 +30,15 @@ TECH-STACK:
 -Frontend:
 
 React.js
+
 Vite
+
 JavaScript
 
 -Backend:
 
 Express
+
 MongoDB/Mongoose
+
 JavaScript

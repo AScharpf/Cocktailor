@@ -27,7 +27,7 @@ Cheers!
 
 TECH-STACK:
 
--Frontend:
+- Frontend:
 
 React.js
 
@@ -35,7 +35,7 @@ Vite
 
 JavaScript
 
--Backend:
+- Backend:
 
 Express
 
